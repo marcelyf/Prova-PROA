@@ -9,7 +9,7 @@ programa
 	faca{
 		escreva (i+ ",")
 		i--
-		} 
+	     } 
 	enquanto (i>0)
 
 		escreva("\nFim.")
